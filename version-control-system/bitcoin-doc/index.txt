@@ -6,3 +6,30 @@ Nakamoto. Bitcoin transactions are recorded on a public ledger called the blockc
 security. Unlike traditional currencies, Bitcoin is based on a peer-to-peer network, allowing users to send and
 receive funds globally with lower fees and greater privacy. Due to its limited supply of 21 million coins, 
 Bitcoin is often considered a store of value, similar to digital gold.
+
+How Does Bitcoin Work?
+1. Blockchain Technology
+Bitcoin transactions are recorded on a public, distributed ledger called the blockchain. The blockchain consists of blocks of transactions that are securely linked together in chronological order. Each block contains:
+
+A list of validated Bitcoin transactions
+A cryptographic reference (hash) to the previous block
+A unique mathematical puzzle that must be solved through mining
+Once a block is confirmed, it is added to the blockchain, making it immutable and secure from tampering.
+
+2. Decentralization and Peer-to-Peer Transactions
+Unlike traditional financial systems that rely on centralized entities like banks, Bitcoin operates on a decentralized network of computers (nodes) spread across the world.
+
+Transactions are peer-to-peer (P2P), meaning they occur directly between users without intermediaries.
+Anyone with an internet connection can send or receive Bitcoin, regardless of location or financial status.
+3. Bitcoin Mining: Securing the Network
+Bitcoin mining is the process of verifying transactions and adding them to the blockchain. Miners use powerful computers to solve complex mathematical problems, known as proof-of-work (PoW).
+
+The first miner to solve the problem gets to add the next block to the blockchain and is rewarded with newly minted Bitcoin and transaction fees.
+This process helps secure the network and ensures that transactions remain valid.
+4. Limited Supply and Scarcity
+One of Bitcoin’s most significant features is its finite supply. Unlike fiat currencies, which can be printed indefinitely, Bitcoin has a maximum supply of 21 million coins. This scarcity contributes to its value and makes it resistant to inflation.
+
+5. Security and Transparency
+Bitcoin transactions are recorded on the blockchain, making them publicly viewable and transparent. However, Bitcoin addresses are pseudonymous, meaning they do not directly reveal the identity of users.
+
+Transactions are cryptographically secure, making Bitcoin highly resistant to fraud and counterfeiting.
