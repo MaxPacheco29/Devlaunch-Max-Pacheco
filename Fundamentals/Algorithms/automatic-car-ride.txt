@@ -1,0 +1,23 @@
+Proporcionar una explicacion detallada en un archivo .txt de las acciones que realizarias
+al preparte para conducir un coche automatico.
+
+Este ejercicio esta diseñado para ayudarte a entender los conceptos basicos de los 
+algoritmos al darte un ejemplo del mundo real sobre como llevar tu coche a dar un paseo.
+
+
+
+Solución: 
+
+Buscar las llaves.
+Coger las llaves.
+Caminar hacia el coche.
+Desbloquear el coche si esta bloqueado
+Entrar al coche.
+Colocarse el cinturon.
+Si hay pasajeros esperar a que se coloquen el cinturon.
+Revisar espejos.
+Colocar la llave en la ranura y encender el coche.
+Poner el pie en el freno y quitar el freno de mano.
+Revisar que no vengan otro vehiculos o peatones cerca.
+Si hay vehiculos o peatones esperar a que pasen.
+Una vez este todo libre poner la marcha en drive (D) y conducir.
