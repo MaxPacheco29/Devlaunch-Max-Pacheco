@@ -1,0 +1,24 @@
+Proporciona una explicación detallada en un archivo .txt de las acciones a realizar 
+a la hora de cocinar un huevo.
+
+SOlUCIÓN: 
+Ve a la cocina. 
+Sacar los utensilios necesarios (Sarten, espatula, tazon, plato).
+Sacar los ingredientes necesarios (Huevos, sal y aceite).
+Encender la estufa.
+Colocar el sarten en la estufa.
+Romper la cascara y colocar el huevo en el tazon.
+
+¿Son huevos revueltos o fritos?
+
+- Si son fritos, sazonar el huevo con sal.
+- Si son revueltos, sazonar el huevo con sal y batirlo.
+Colocar aceite en el sarten.
+Colocar el huevo en el sarten.
+
+¿Son huevos revueltos o fritos?
+
+- Si es frito esperar a que se cocine.
+- Si es revuelto moverlo continuamente con la espatula mientras se cocina. 
+Sacarlo del sarten y colocarlo en el plato.
+Apagar la estufa. 
