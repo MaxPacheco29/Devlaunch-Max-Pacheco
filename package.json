@@ -16,5 +16,8 @@
   "bugs": {
     "url": "https://github.com/MaxPacheco29/Devlaunch-Max-Pacheco/issues"
   },
-  "homepage": "https://github.com/MaxPacheco29/Devlaunch-Max-Pacheco#readme"
+  "homepage": "https://github.com/MaxPacheco29/Devlaunch-Max-Pacheco#readme",
+  "dependencies": {
+    "prompt-sync": "^4.2.0"
+  }
 }
