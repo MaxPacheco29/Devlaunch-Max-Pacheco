@@ -5,7 +5,7 @@ Opera de 6 AM a 10 PM, emplea 10 entrenadores certificados
 y cuenta con comodidades como sauna, piscina y clases grupales.
 */
 
-const establishment = "gym"
+const establishment = "gym boutique"
 
 let establishmentName = "Elite Fitness Center"
 
@@ -17,13 +17,25 @@ let location = `${city}, ${state}`
 
 let membership = "monthly"
 
-let membershipFee = "$150"
+let currency = "$"
 
-let schedule = "6 AM to 10 PM"
+let membershipFee = 150
+
+let openTime = 6
+
+let closeTime = 22
 
 let numberOfCoaches = 10
 
-let listOfAmenities = "Sauna, Swimming Pool, Group Classes"
+let amenity1 = "Sauna"
+
+let amenity2 = "Swimming pool"
+
+let amenity3 = "Group classes"
+
+let listOfAmenities = `${amenity1}, ${amenity2}, ${amenity3}`
+
+
 
 
 
