@@ -31,7 +31,7 @@ let myMoney = 150
 
 let change = `${myMoney-totalCost}`
 
-console.log(change)
+
 
 
 
