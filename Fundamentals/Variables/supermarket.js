@@ -15,9 +15,9 @@ let item2 = "naranjas"
 
 let itemList = `${item1}, ${item2}`
 
-let bananaQuantity = 0
+let areBananasAvailable = false 
 
-let grapeQuantity = 0
+let areGrapesAvailable = false 
 
 let numberOfCashiers = 3
 
