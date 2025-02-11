@@ -9,27 +9,27 @@ Entrego $150 en efectivo y recibo $50 de cambio.
 
 const supermarketName = "Green Center"
 
-let item1 = "manzanas" 
+const item1 = "manzanas" 
 
-let item2 = "naranjas"
+const item2 = "naranjas"
 
-let itemList = `${item1}, ${item2}`
+const itemList = `${item1}, ${item2}`
 
-let areBananasAvailable = false 
+const areBananasAvailable = false 
 
-let areGrapesAvailable = false 
+const areGrapesAvailable = false 
 
-let numberOfCashiers = 3
+const numberOfCashiers = 3
 
-let currency = "$"
+const currency = "$"
 
-let paymentType = "cash"
+const paymentType = "cash"
 
-let totalCost = 100
+const totalCost = 100
 
-let myMoney = 150
+const myMoney = 150
 
-let change = `${myMoney-totalCost}`
+const change = `${myMoney-totalCost}`
 
 
 
