@@ -40,4 +40,3 @@ const change = `${myMoney-totalCost}`
 
 
 
-
