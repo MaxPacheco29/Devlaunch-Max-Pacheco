@@ -31,7 +31,7 @@ switch(day) {
         console.log("Sunday")
     break
     default:
-        console.log("Invalid Day")
+        console.error("Invalid Day")
     break;
 
 }
