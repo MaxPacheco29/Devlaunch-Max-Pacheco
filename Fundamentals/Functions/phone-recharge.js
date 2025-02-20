@@ -46,7 +46,7 @@ const name = prompt("Name: ")
 
 const amount = parseFloat(prompt("Amount $: "))
 
-const duration = parseInt (prompt("Duration (Months): "))
+const duration = parseInt(prompt("Duration (Months): "))
 
 const recharge = calculateRecharge(amount, duration)
 
