@@ -25,15 +25,3 @@ O sea no es válido que la función contenga ningún console.log dentro, solo es
 9 is odd  
 */
 
-const classifyNumbers = (numberToReach: number): string => {
-    let result = " "
-
-    for (let i = 1; i < numberToReach; i++) {
-        const isOdd = i % 2 === 0
-        result += `${i} is ${isOdd ? "odd" : "even"} \n` 
-    }
-
-    return result
-}
-
-console.log(classifyNumbers(10))
